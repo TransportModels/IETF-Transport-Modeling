@@ -25,3 +25,5 @@ The following are the goals of the transport modeling design team:
 - Daniele Ceccarelli
 - Karthik Sethuraman
 - Ricard Vilalta
+- Victor Lopez
+- Rajan Rao
