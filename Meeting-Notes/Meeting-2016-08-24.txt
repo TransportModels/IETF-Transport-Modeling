@@ -1,0 +1,61 @@
+1. Summary of IETF-96 discussions
+
+	- Presentation of the Transport Requirements & Gap Analysis Draft.
+
+	- Discussion around the design team in CCAMP WG
+		- Use Wiki to document use cases and modeling (instance diagrams)
+			- Wiki better with diagrams and drawings
+			- Can be moved later in formal draft
+		- Use Github to post existing work - requirements, use cases and modeling (instance diagrams)
+		- Abstract for goals of the design team [Done]
+			- CCAMP team working with the area director.
+
+	- Modeling (brainstorming exercise) of few micro scenarios:
+		- Modeling of L0 topology and service with Transponders and WSS
+		- Modeling of NE with multiple chassis/shelf with no inter-chassis connectivity
+
+2. Current status
+
+	- [Complete] Analysis completed for single layer, single domain
+		- Feedback provided to TE Topology (NNI link)
+		- Feedback provided to TE Tunnel
+
+	- [Complete] Submission of IETF Drafts identified as the gap:
+		- L1/OTN Tunnel Model
+		- Update of L1/OTN TE Topology Model
+		- Alarm Model
+
+	- [Pending: Priority#1] Analysis pending for the following use cases:
+		- End-to-End service in a single layer, multi-domain network
+		- End-to-End service in a multi-layer, single domain network
+
+	- [Complete] Provide additional feedback to TE Tunnel model (Xian)
+		- Definition of notification using XPATH and pub/sub model (AI: Tarek)
+
+	- [Pending] Review of the updated TE Tunnel model
+
+3. Next analysis and modeling activities
+
+	- Complete pending items
+
+	- Wiki / Github Documentation:
+		- Transport use case modeling
+		- Create a GitHub page (AI: Anurag)
+
+	- Analysis of Virtual Network use case
+
+	- New model drafts:
+		- L2 MEF service model - Any IPR issues?
+			- IPR might not be an issue - (AI:Tara to check)
+
+		- Path Computation model ?
+			- Need to check with Sergio & Italo
+
+		- Virtual Network model (Based on Virtual Network use case analysis)
+
+	- New terminology / name for the tunnel/service
+
+	- TE Topology analysis for technology specific attributes
+		- Which are technology specific attributes?
+		- Where should these attributes go, i.e. which CCAMP model?
+
