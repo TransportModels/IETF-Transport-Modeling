@@ -1,3 +1,14 @@
+Participants:
+- Michael Scharf
+- Anurag Sharma
+- Karthik Sethuraman
+- Xian Zhang
+- Sergio Belotti
+- Oscar Gonzalez de Dios
+- Tara Cummings
+- Hans Bjursröm
+
+
 1. Ownership / participants for next analysis and modeling activities
 
 	- Analysis pending for the following use cases:
