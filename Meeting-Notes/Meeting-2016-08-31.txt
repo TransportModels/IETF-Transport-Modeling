@@ -13,23 +13,20 @@ Participants:
 
 	- Analysis pending for the following use cases:
 		- End-to-End service in a single layer, multi-domain network
-			- (09/07) Owner: Xian, Sergio, Tara, Karthik (review)
+			- (Discuss in 09/07 meeting) Owner: Xian, Sergio, Tara, Karthik (review)
 		- End-to-End service in a multi-layer, single domain network
-			- (09/14) Owner: Sergio, Dieter, Anurag, Karthik, Xian, Oscar (Technology specific sub-case OTN/Flexi grid network), Tara
+			- (Discuss in 09/14 meeting) Owner: Sergio, Dieter, Anurag, Karthik, Xian, Oscar (Technology specific sub-case OTN/Flexi grid network), Tara
 
 	- Review of the updated TE Tunnel model. Check for any technology specific attributes.
-		- (09/14) Owner: Anurag, Xian, Tara
-
-	- Wiki / Github Documentation:
-		- Transport use case modeling
-		- Create a GitHub page (AI: Anurag)
+		- (Discuss in 09/14 meeting) Owner: Anurag, Xian, Tara
 
 	- Analysis of Virtual Network use case
 		- Owner: Anurag, Tara, Karthik (review), Sergio
 
 	- New model drafts:
-		- L2 MEF service model - Any IPR issues?
-			- IPR might not be an issue - (AI:Tara to check)
+		- L2 MEF service model 
+			- 08/24: Any IPR issues? IPR might not be an issue - (AI:Tara to check; Done)
+			- 08/31: No IPR issue as long as published documents are used. Use of anything that is still work in progess can be an issue.
 			- Owner: Anurag, Tara, Xian, Hans, Michael
 
 		- Path Computation model ?
@@ -55,11 +52,11 @@ Participants:
 			- Meeting Minutes
 			- Use Case documents
 			- Transport Requirements document
-		- Additional directories:
+		- Additional directories to be added:
 			- Draft Model + UML
 			- Presentations
-				- MEF Presentation from Tara
-				- T-API FRS 
+				- MEF Presentation from Tara (okay to add)
+				- T-API FRS (okay to add the published version)
 			
 
 3. Multi-domain use case review (Discuss in the next meeting)
