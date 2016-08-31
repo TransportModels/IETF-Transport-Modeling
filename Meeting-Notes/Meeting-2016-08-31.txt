@@ -1,0 +1,56 @@
+1. Ownership / participants for next analysis and modeling activities
+
+	- Analysis pending for the following use cases:
+		- End-to-End service in a single layer, multi-domain network
+			- (09/07) Owner: Xian, Sergio, Tara, Karthik (review)
+		- End-to-End service in a multi-layer, single domain network
+			- (09/14) Owner: Sergio, Dieter, Anurag, Karthik, Xian, Oscar (Technology specific sub-case OTN/Flexi grid network), Tara
+
+	- Review of the updated TE Tunnel model. Check for any technology specific attributes.
+		- (09/14) Owner: Anurag, Xian, Tara
+
+	- Wiki / Github Documentation:
+		- Transport use case modeling
+		- Create a GitHub page (AI: Anurag)
+
+	- Analysis of Virtual Network use case
+		- Owner: Anurag, Tara, Karthik (review), Sergio
+
+	- New model drafts:
+		- L2 MEF service model - Any IPR issues?
+			- IPR might not be an issue - (AI:Tara to check)
+			- Owner: Anurag, Tara, Xian, Hans, Michael
+
+		- Path Computation model ?
+			- Need to check with Sergio & Italo
+			- Owner: Sergio, Italo
+
+		- Virtual Network model (Based on Virtual Network use case analysis)
+			- Owner: Anurag, Tara, Karthik (review), Sergio
+
+	- New terminology / name for the tunnel/service
+		- Owner: Oscar, Sergio, Anurag, Xian
+
+	- TE Topology analysis for technology specific attributes
+		- Which are technology specific attributes?
+		- Where should these attributes go, i.e. which CCAMP model?
+		- Owner: Dieter, Oscar
+
+2. Github Status
+
+	- New Github account created with TransportModels as an Organization
+		- https://github.com/TransportModels/IETF-Transport-Modeling
+		- Uploaded 
+			- Meeting Minutes
+			- Use Case documents
+			- Transport Requirements document
+		- Additional directories:
+			- Draft Model + UML
+			- Presentations
+				- MEF Presentation from Tara
+				- T-API FRS 
+			
+
+3. Multi-domain use case review (Discuss in the next meeting)
+
+4. Creating JSON / RESTConf examples (Discuss in the next meeting)
