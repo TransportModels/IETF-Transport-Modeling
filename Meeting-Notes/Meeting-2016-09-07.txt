@@ -22,6 +22,8 @@ Discussion of Multi-Domain Use Case - presented by Xian
 	  - Subnetworks in the domain controller should only model edge ports. Remote edge port knowledge is not typically required by the individual network. The parent network, or orchestrator keeps the inter-network links.
 	- How the MDSC know the correlation of C-Rx and network-side NEs (Page 4 point 2)?  In this use case, that is the business boundary and should be known somehow by provider, so they are configured on to the MDSC.  
 	
-	
+- Add the following to the Multi-Domain use case
+	1. Model for parent network with sub-networks. There is i-NNI link between the sub-networks.
+	2. Top-down iNNI link provisioning. That is, MDSC has view of the inter network link, but the PNC only model the edge ports.
 	
 	
