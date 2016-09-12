@@ -21,3 +21,7 @@ Discussion of Multi-Domain Use Case - presented by Xian
 	  - It appears that the iNNI link creation is more top-down process. That is, operator creates the link in the orchestrator.
 	  - Subnetworks in the domain controller should only model edge ports. Remote edge port knowledge is not typically required by the individual network. The parent network, or orchestrator keeps the inter-network links.
 	- How the MDSC know the correlation of C-Rx and network-side NEs (Page 4 point 2)?  In this use case, that is the business boundary and should be known somehow by provider, so they are configured on to the MDSC.  
+	
+	
+	
+	
